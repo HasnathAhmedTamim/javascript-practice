@@ -1,3 +1,4 @@
+// VARIABLE DISCUSSION
 const accountId = 111;
 let accountState;
 let accountEmail = "hasnath.tamim333@gmail.com";
